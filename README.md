@@ -254,6 +254,11 @@ python catboost_predict.py
 - Prediction confidence thresholding
 - Multi-label evaluation metrics
 
+## 📧 Contact
+
+- Email: zidannalfarizi@gmail.com
+- GitHub: [zidanlf](https://github.com/zidanlf)
+- LinkedIn: [Zidan Alfarizi](www.linkedin.com/in/zidanalfarizi)
 
 ## 🙏 Acknowledgments
 
